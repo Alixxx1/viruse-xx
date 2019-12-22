@@ -1,2 +1,0 @@
-# viruse-xx
-virus
